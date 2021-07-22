@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SharedPreferencesChallenge</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_gender">Sexo</string>
+    <string name="hint_phone">Celular</string>
+    <string name="hint_day">Dia</string>
+    <string name="hint_month">Mês</string>
+    <string name="hint_year">Ano</string>
+    <string name="helper_required">Obrigatório*</string>
+    <string name="save">Salvar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Sobre</string>
+    <string name="movies">Filmes</string>
+    <string name="click_here">clique aqui</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_about">About</string>
+    <string name="text_label_1">Tab 1</string>
+    <string name="text_label_2">Tab 2</string>
+    <string name="text_label_3">Tab 3</string>
+    <string name="tab_musics">Músicas</string>
+    <string name="tab_images">Imagens</string>
+    <string name="tab_albums">Álbuns</string>
+    <string name="data_saved_successfully">Dados salvos com sucesso</string>
+    <string name="hint_password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="keep_connected">Manter-me conectado</string>
+</resources>
